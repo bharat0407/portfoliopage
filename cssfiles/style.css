@@ -1,0 +1,11 @@
+/* @import icon.ccs from css folder */
+@import url(./fonts.css);
+
+/* css variables*/
+@import url(./partials/_variables.css);
+ 
+
+/* custom css class*/
+.navit{
+    color: black;
+}
